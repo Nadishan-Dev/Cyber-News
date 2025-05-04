@@ -13,34 +13,6 @@
             "tags": ["quantum computing", "technology", "research", "breakthrough"],
             "views": 1247,
             "type": "article"
-        },
-        {
-            "id": "001",
-            "postid": "compute",
-            "title": "Quantum Computing Breakthrough: New Qubit Architecture Unveiled",
-            "slug": "quantum-computing-breakthrough",
-            "author": "Alex Chen",
-            "date": "2025-05-02T10:30:00Z",
-            "thumbnail": "https://via.placeholder.com/600x400/0a0a0a/00ffff?text=Quantum+Computing",
-            "summary": "Scientists have developed a revolutionary qubit architecture that promises to dramatically increase quantum processing power.",
-            "content": "In a groundbreaking development for quantum computing, researchers at the Quantum Frontier Institute have unveiled a new qubit architecture that promises to overcome one of the field's most persistent challenges: maintaining quantum coherence.\n\nThe new design, which utilizes a hybrid approach combining superconducting circuits with topological protection mechanisms, has demonstrated coherence times nearly 10 times longer than previous implementations.\n\n\"This represents a fundamental shift in how we approach quantum error correction,\" said Dr. Sophia Wong, lead researcher on the project. \"Rather than simply adding more qubits for redundancy, we've reimagined the fundamental building blocks to be inherently more stable.\"\n\nThe team's prototype quantum processor maintained quantum states for over 5 minutes under laboratory conditions, shattering previous records and potentially bringing practical quantum computing applications significantly closer to reality.\n\nIndustry experts suggest this breakthrough could accelerate the timeline for quantum advantage in areas such as cryptography, material science, and complex system modeling by several years.\n\nThe research, published in the prestigious journal Quantum Frontiers, has already attracted attention from major technology companies looking to incorporate the new architecture into their quantum computing roadmaps.",
-            "tags": ["quantum computing", "technology", "research", "breakthrough"],
-            "views": 1247,
-            "type": "article"
-        },
-        {
-            "id": "001",
-            "postid": "cter",
-            "title": "Quantum Computing Breakthrough: New Qubit Architecture Unveiled",
-            "slug": "quantum-computing-breakthrough",
-            "author": "Alex Chen",
-            "date": "2025-05-02T10:30:00Z",
-            "thumbnail": "https://via.placeholder.com/600x400/0a0a0a/00ffff?text=Quantum+Computing",
-            "summary": "Scientists have developed a revolutionary qubit architecture that promises to dramatically increase quantum processing power.",
-            "content": "In a groundbreaking development for quantum computing, researchers at the Quantum Frontier Institute have unveiled a new qubit architecture that promises to overcome one of the field's most persistent challenges: maintaining quantum coherence.\n\nThe new design, which utilizes a hybrid approach combining superconducting circuits with topological protection mechanisms, has demonstrated coherence times nearly 10 times longer than previous implementations.\n\n\"This represents a fundamental shift in how we approach quantum error correction,\" said Dr. Sophia Wong, lead researcher on the project. \"Rather than simply adding more qubits for redundancy, we've reimagined the fundamental building blocks to be inherently more stable.\"\n\nThe team's prototype quantum processor maintained quantum states for over 5 minutes under laboratory conditions, shattering previous records and potentially bringing practical quantum computing applications significantly closer to reality.\n\nIndustry experts suggest this breakthrough could accelerate the timeline for quantum advantage in areas such as cryptography, material science, and complex system modeling by several years.\n\nThe research, published in the prestigious journal Quantum Frontiers, has already attracted attention from major technology companies looking to incorporate the new architecture into their quantum computing roadmaps.",
-            "tags": ["quantum computing", "technology", "research", "breakthrough"],
-            "views": 1247,
-            "type": "article"
         }
     ]
 }
