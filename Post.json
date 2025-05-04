@@ -2,6 +2,7 @@
     "posts": [
         {
             "id": "001",
+            "postid": "computer",
             "title": "Quantum Computing Breakthrough: New Qubit Architecture Unveiled",
             "slug": "quantum-computing-breakthrough",
             "author": "Alex Chen",
@@ -15,6 +16,7 @@
         },
         {
             "id": "001",
+            "postid": "computer",
             "title": "Quantum Computing Breakthrough: New Qubit Architecture Unveiled",
             "slug": "quantum-computing-breakthrough",
             "author": "Alex Chen",
@@ -28,6 +30,7 @@
         },
         {
             "id": "001",
+            "postid": "computer",
             "title": "Quantum Computing Breakthrough: New Qubit Architecture Unveiled",
             "slug": "quantum-computing-breakthrough",
             "author": "Alex Chen",
