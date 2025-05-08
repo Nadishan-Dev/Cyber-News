@@ -2,18 +2,62 @@
     "posts": [
       {
         "id": "001",
-        "postid": "cybernews-launch-001",
+        "postid": "cybernews-launch",
         "title": "Cyber News Website & Facebook Page Launched!",
         "slug": "cyber-news-facebook-page-launched",
         "author": "Cyber News Team",
         "date": "2025-05-04",
-        "thumbnail": "https://raw.githubusercontent.com/Nadishan-Dev/Cyber-News/refs/heads/main/images/cybernews.jpg",
+        "thumbnail": [
+          {
+            "url": "https://raw.githubusercontent.com/Nadishan-Dev/Cyber-News/refs/heads/main/images/cybernews.jpg", 
+            "alt": "GTA 6 Trailer"
+          }
+        ],
+        "video": [
+          {
+            "url": "", 
+            "alt": ""
+          }
+        ],
         "summary": "We're thrilled to announce the official launch of the Cyber News Facebook page — your daily dose of cybersecurity updates, threats, and safety tips.",
         "content": "Hey everyone!\n\nExcited to announce the launch of Facebook page: Cyber News!\n\nIn today's rapidly evolving digital world, staying informed about cybersecurity is more crucial than ever. This page will be your go-to source for the latest news, trends, threats, and tips to help you navigate the cyber landscape safely and securely.",
         "tags": ["cybersecurity", "news", "facebook", "launch"],
         "views": 1247,
         "type": "post"
-      }
+      },
+      {
+        "id": "002",
+        "postid": "gta6-second-trailer",
+        "title": "GTA 6 Second Trailer Released – Here's What We Know!",
+        "slug": "gta6-second-trailer-released",
+        "author": "Cyber News Team",
+        "date": "2025-05-08",
+        "thumbnail": [
+          {
+            "url": "https://raw.githubusercontent.com/Nadishan-Dev/Cyber-News/refs/heads/main/images/gta1.jpg", 
+            "alt": "GTA 6 Trailer"
+          },
+          {
+            "url": "https://raw.githubusercontent.com/Nadishan-Dev/Cyber-News/refs/heads/main/images/gta2.png", 
+            "alt": "GTA 6 2nd Trailer"
+          },
+          {
+            "url": "https://raw.githubusercontent.com/Nadishan-Dev/Cyber-News/refs/heads/main/images/gta3.jpg", 
+            "alt": "GTA 6"
+          }
+        ],
+        "video": [
+          {
+            "url": "https://raw.githubusercontent.com/Nadishan-Dev/Cyber-News/main/videos/gta_trailer_2.mp4", 
+            "alt": "GTA 6 Second Trailer"
+          }
+        ],
+        "summary": "Rockstar Games has officially dropped the second trailer for GTA 6, revealing stunning gameplay, characters, and more from Vice City.",
+        "content": "Big news from the gaming world! Rockstar Games has released the highly anticipated second trailer for Grand Theft Auto VI (GTA 6).\n\nThe trailer showcases breathtaking visuals of Vice City, a deeper look at the main characters, and hints at the storyline fans have been waiting for. With new mechanics, immersive environments, and evolved open-world gameplay, GTA 6 is shaping up to be the most ambitious entry in the series yet.\n\nStay tuned as we break down everything you might’ve missed in the trailer — from easter eggs to gameplay insights!",
+        "tags": ["GTA6", "gaming", "trailer", "rockstar", "vice city"],
+        "views": 0,
+        "type": "post"
+      }      
     ]
   }
   
