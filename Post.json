@@ -31,7 +31,7 @@
         "title": "GTA 6 Second Trailer Released – Here's What We Know!",
         "slug": "gta6-second-trailer-released",
         "author": "Cyber News Team",
-        "date": "2025-05-08",
+        "date": "2025-05-07",
         "thumbnail": [
           {
             "url": "https://raw.githubusercontent.com/Nadishan-Dev/Cyber-News/refs/heads/main/images/gta1.jpg", 
@@ -55,6 +55,60 @@
         "summary": "Rockstar Games has officially dropped the second trailer for GTA 6, revealing stunning gameplay, characters, and more from Vice City.",
         "content": "Big news from the gaming world! Rockstar Games has released the highly anticipated second trailer for Grand Theft Auto VI (GTA 6).\n\nThe trailer showcases breathtaking visuals of Vice City, a deeper look at the main characters, and hints at the storyline fans have been waiting for. With new mechanics, immersive environments, and evolved open-world gameplay, GTA 6 is shaping up to be the most ambitious entry in the series yet.\n\nStay tuned as we break down everything you might’ve missed in the trailer — from easter eggs to gameplay insights!",
         "tags": ["GTA6", "gaming", "trailer", "rockstar", "vice city"],
+        "views": 0,
+        "type": "post"
+      },
+      {
+        "id": "003",
+        "postid": "iphone-maker-builds-mitsubishi-evs",
+        "title": "iPhone maker announces plan to build Mitsubishi EVs",
+        "slug": "iphone-maker-builds-mitsubishi-evs",
+        "author": "Cyber News Team",
+        "date": "2025-05-08",
+        "thumbnail": [
+          {
+            "url": "https://raw.githubusercontent.com/Nadishan-Dev/Cyber-News/refs/heads/main/images/iPhone%20maker%20announces%20plan%20to%20build%20Mitsubishi%20EVs.webp",
+            "alt": "Foxconn and Mitsubishi team up for electric vehicles"
+          }
+        ],
+        "video": [
+          {
+            "url": "",
+            "alt": ""
+          }
+        ],
+        "summary": "Foxconn, Apple’s iPhone manufacturer, plans to build electric vehicles for Mitsubishi Motors in Taiwan under a new partnership, with the first model expected by the end of 2026 in Australia and New Zealand.",
+        "content": "Foxconn, the maker of Apple's iPhones, has announced plans to produce electric vehicles (EV) for Japanese car giant Mitsubishi Motors. Under a new agreement in principle, Foxconn's EV joint venture, Foxtron, will design and manufacture vehicles in Taiwan specifically for Mitsubishi. The companies aim to have the new model ready by the end of next year, marking Foxconn’s first major deal in the EV sector.\n\nThe collaboration represents a significant step for both companies. Foxtron, a joint venture between Foxconn and Taiwanese car maker Yulon Motor, will be responsible for the car's design and manufacturing management. The resulting EVs are expected to enter the Australian and New Zealand markets in the second half of 2026.\n\nCurrently, the deal is a memorandum of understanding—a non-binding agreement—though both parties confirmed they will continue discussions toward a final contract. Foxconn, known as the world’s largest contract electronics manufacturer and a key Apple supplier, has shown growing interest in the automobile sector, including previous talks with Nissan.\n\nMitsubishi Motors is part of a broader automotive alliance with Nissan and Renault. The partnership comes as Japanese automakers face increasing pressure from rapidly growing Chinese EV brands like BYD, especially in regions such as South East Asia, South America, and Europe.\n\nThis move reflects the global shift toward electrification and the intensifying competition in the EV market, where established brands are seeking innovative ways to keep up with China’s swift advancements.",
+        "tags": ["Electric cars", "Foxconn", "Mitsubishi", "Apple", "Car industry", "International Business"],
+        "views": 0,
+        "type": "post"
+      },
+      {
+        "id": "004",
+        "postid": "best-video-platform-youtube",
+        "title": "The Best Video Platform: YouTube",
+        "slug": "best-video-platform-youtube",
+        "author": "Cyber News Team",
+        "date": "2025-05-08",
+        "thumbnail": [
+          {
+            "url": "https://raw.githubusercontent.com/Nadishan-Dev/Cyber-News/refs/heads/main/images/YouTube.jpg",
+            "alt": "YouTube"
+          },
+          {
+            "url": "https://raw.githubusercontent.com/Nadishan-Dev/Cyber-News/refs/heads/main/images/ytfounders.jpg",
+            "alt": "YouTube Founders"
+          }
+        ],
+        "video": [
+          {
+            "url": "",
+            "alt": ""
+          }
+        ],
+        "summary": "YouTube remains the undisputed leader in online video sharing and streaming, providing content creators and audiences worldwide with unmatched access to videos, live streams, monetization tools, and community engagement features.",
+        "content": "YouTube, launched in 2005 and acquired by Google in 2006, has grown into the world's most popular video-sharing platform. With over 2.5 billion monthly users and billions of hours watched every day, YouTube dominates the digital video space.\n\nThe platform allows creators to upload and share videos globally, with tools for monetization, live streaming, community posts, and analytics. YouTube's algorithm suggests personalized content, helping users discover new creators and topics.\n\nIn addition to entertainment, YouTube serves as an educational hub, a news source, and a marketing tool for businesses. Features like YouTube Shorts, Super Chat, Memberships, and the YouTube Partner Program empower creators to earn and grow communities.\n\nDespite facing competition from platforms like TikTok, Instagram Reels, and Twitch, YouTube remains unmatched in content variety, video length flexibility, and monetization options.\n\nWith continuous updates and support for creators and viewers alike, YouTube continues to shape the future of video consumption on the internet.",
+        "tags": ["YouTube", "Video Platform", "Content Creators", "Streaming", "Google", "Online Video"],
         "views": 0,
         "type": "post"
       }      
