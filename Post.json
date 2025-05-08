@@ -121,15 +121,7 @@
   "date": "2025-05-08",
   "thumbnail": [
     {
-      "url": "", 
-      "alt": ""
-    },
-    {
-      "url": "", 
-      "alt": ""
-    },
-    {
-      "url": "", 
+      "url": "https://raw.githubusercontent.com/Nadishan-Dev/Cyber-News/refs/heads/main/images/malware-click.webp", 
       "alt": ""
     }
   ],
