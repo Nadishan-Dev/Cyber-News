@@ -111,7 +111,40 @@
         "tags": ["YouTube", "Video Platform", "Content Creators", "Streaming", "Google", "Online Video"],
         "views": 0,
         "type": "post"
-      }      
+      },
+{
+  "id": "005",
+  "postid": "coldriver-lostkeys-malware",
+  "title": "Russian Hackers Using ClickFix Fake CAPTCHA to Deploy New LOSTKEYS Malware",
+  "slug": "coldriver-lostkeys-malware",
+  "author": "Cyber News Team",
+  "date": "2025-05-08",
+  "thumbnail": [
+    {
+      "url": "", 
+      "alt": ""
+    },
+    {
+      "url": "", 
+      "alt": ""
+    },
+    {
+      "url": "", 
+      "alt": ""
+    }
+  ],
+  "video": [
+    {
+      "url": "", 
+      "alt": ""
+    }
+  ],
+  "summary": "Russia-linked hackers known as COLDRIVER are deploying a new spyware tool, LOSTKEYS, using fake CAPTCHA pages as bait in a sophisticated cyber-espionage campaign.",
+  "content": "The Russia-linked threat group COLDRIVER has been linked to a new malware strain named LOSTKEYS, discovered during recent cyber-espionage operations. This malware is spread via fake CAPTCHA lures resembling ClickFix pop-ups. \n\nAccording to Google’s Threat Intelligence Group (GTIG), LOSTKEYS is designed to steal specific file types from targeted directories and collect sensitive system data, including running processes. The malware has been active in January, March, and April of 2025.\n\nIts targets include Western government and military advisors (both current and former), journalists, think tanks, NGOs, and Ukrainian-affiliated individuals. This marks a shift in COLDRIVER’s strategy, which previously focused on credential phishing. \n\nLOSTKEYS is the second malware attributed to the group, following SPICA. COLDRIVER is also known by aliases like Callisto, Star Blizzard, and UNC4057, and remains a persistent threat in the geopolitical cyber landscape.",
+  "tags": ["cybersecurity", "malware", "Russia", "espionage", "LOSTKEYS", "COLDRIVER"],
+  "views": 0,
+  "type": "post"
+}      
     ]
   }
   
