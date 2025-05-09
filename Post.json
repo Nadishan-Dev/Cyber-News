@@ -136,7 +136,94 @@
   "tags": ["cybersecurity", "malware", "Russia", "espionage", "LOSTKEYS", "COLDRIVER"],
   "views": 0,
   "type": "post"
-}      
+},
+{
+  "id": "006",
+  "postid": "apple-ai-search-safari",
+  "title": "Apple Looks to Add AI Search to Safari in Potential Blow for Google",
+  "slug": "apple-ai-search-safari",
+  "author": "Cyber News Team",
+  "date": "2025-05-08",
+  "thumbnail": [
+    {
+      "url": "", 
+      "alt": ""
+    }
+  ],
+  "video": [
+    {
+      "url": "", 
+      "alt": ""
+    }
+  ],
+  "summary": "Apple plans to integrate AI-powered search into Safari, potentially threatening Google's dominance as the default search provider on iOS devices.",
+  "content": "Apple is reportedly exploring the integration of AI-driven search engines into its Safari browser, according to Bloomberg News. This move could challenge Google's long-standing dominance in the search market, especially as it pays Apple approximately $20 billion annually to remain the default engine.\n\nApple executive Eddy Cue, during his testimony in the U.S. Department of Justice's antitrust case against Google, stated that Safari searches declined last month due to users increasingly using AI tools. This shift signals growing interest in AI alternatives like OpenAI and Perplexity.\n\nApple has already partnered with OpenAI to bring ChatGPT into Siri, and Google is working on securing a deal to integrate Gemini AI into Apple devices by mid-year. Analysts believe that even if Google loses its exclusive default position on Safari, it could face serious consequences in the digital ad space.\n\nCue mentioned that Apple would consider adding AI search engines to Safari's list of search providers, although they may not replace Google as the default. As Apple leans further into AI, the traditional search landscape may face a major disruption.",
+  "tags": ["Apple", "Safari", "AI", "Google", "search engine", "OpenAI", "ChatGPT", "Perplexity", "Gemini"],
+  "views": 0,
+  "type": "post"
+}    ,
+[
+  {
+    "id": "007",
+    "postid": "bill-gates-ai-future-vision",
+    "title": "Bill Gates Shares Vision for AI's Role in Solving Global Challenges",
+    "slug": "bill-gates-ai-future-vision",
+    "author": "Cyber News Team",
+    "date": "2025-05-07",
+    "thumbnail": [
+      {
+        "url": "https://example.com/images/bill-gates-ai.jpg",
+        "alt": "Bill Gates discussing AI at a tech forum"
+      }
+    ],
+    "video": [],
+    "summary": "Bill Gates emphasized the transformative potential of AI in healthcare, education, and climate change during a global tech conference.",
+    "content": "During a global technology summit, Bill Gates outlined his optimistic vision of AI as a tool to combat global challenges. He highlighted AI's potential in improving medical diagnostics, personalizing education, and optimizing climate models. Gates also discussed ethical concerns and emphasized the need for global cooperation and regulations.\n\nHe acknowledged risks such as job displacement and algorithmic bias, advocating for transparency in AI development. Gates concluded by urging governments, researchers, and corporations to work together in ensuring AI benefits humanity equitably.",
+    "tags": ["AI", "Bill Gates", "Global Tech", "Healthcare", "Education", "Climate Change"],
+    "views": 0,
+    "type": "post"
+  },
+  {
+    "id": "008",
+    "postid": "apple-ai-search-safari",
+    "title": "Apple Looks to Add AI Search to Safari in Potential Blow for Google",
+    "slug": "apple-ai-search-safari",
+    "author": "Cyber News Team",
+    "date": "2025-05-08",
+    "thumbnail": [
+      {
+        "url": "https://example.com/images/apple-safari-ai.jpg",
+        "alt": "Safari browser with AI features on iPhone"
+      }
+    ],
+    "video": [],
+    "summary": "Apple plans to integrate AI-powered search into Safari, potentially threatening Google's dominance as the default search provider on iOS devices.",
+    "content": "Apple is reportedly exploring the integration of AI-driven search engines into its Safari browser, according to Bloomberg News. This move could challenge Google's long-standing dominance in the search market, especially as it pays Apple approximately $20 billion annually to remain the default engine.\n\nApple executive Eddy Cue, during his testimony in the U.S. Department of Justice's antitrust case against Google, stated that Safari searches declined last month due to users increasingly using AI tools. This shift signals growing interest in AI alternatives like OpenAI and Perplexity.\n\nApple has already partnered with OpenAI to bring ChatGPT into Siri, and Google is working on securing a deal to integrate Gemini AI into Apple devices by mid-year. Analysts believe that even if Google loses its exclusive default position on Safari, it could face serious consequences in the digital ad space.\n\nCue mentioned that Apple would consider adding AI search engines to Safari's list of search providers, although they may not replace Google as the default. As Apple leans further into AI, the traditional search landscape may face a major disruption.",
+    "tags": ["Apple", "Safari", "AI", "Google", "search engine", "OpenAI", "ChatGPT", "Perplexity", "Gemini"],
+    "views": 0,
+    "type": "post"
+  },
+  {
+    "id": "009",
+    "postid": "wikipedia-online-safety-act",
+    "title": "Wikipedia Legally Challenges 'Flawed' Online Safety Rules",
+    "slug": "wikipedia-online-safety-act",
+    "author": "Chris Vallance",
+    "date": "2025-05-07",
+    "thumbnail": [
+      {
+        "url": "https://example.com/images/wikipedia-legal.jpg",
+        "alt": "Wikipedia logo on a phone screen"
+      }
+    ],
+    "video": [],
+    "summary": "Wikipedia is taking legal action against the UK's Online Safety Act, arguing it threatens the privacy and safety of its volunteer editors and could misclassify the site under overly broad regulations.",
+    "content": "Wikipedia is taking legal action against new Online Safety Act regulations it says could threaten the safety of its volunteer editors and their ability to keep harmful content off the site. The Wikimedia Foundation is seeking a judicial review of rules that could mean Wikipedia is subjected to the toughest duties required of websites under the act.\n\nLead counsel Phil Bradley-Schmieg called it 'unfortunate' that they must defend Wikipedia's contributors from flawed legislation. Ofcom has not yet categorized any services but has requested information from Wikipedia.\n\nThe Foundation fears that if Wikipedia is designated as a Category 1 service, it may be forced to verify editors' identities, potentially endangering their privacy and safety. This could discourage contributions, especially to sensitive or controversial topics. Wikipedia argues the regulations risk both overregulating low-risk sites like theirs and missing more harmful platforms.\n\nLegal experts say Wikimedia faces a high bar to overturn the regulations. The case is seen as the first of many likely challenges to the vast and complex Online Safety Act.",
+    "tags": ["Wikipedia", "Online Safety Act", "Regulation", "Privacy", "UK Law", "Ofcom", "Judicial Review"],
+    "views": 0,
+    "type": "post"
+  }
+]
     ]
   }
   
