@@ -8,24 +8,29 @@
       "author": "Cyber News Team",
       "date": "2025-05-04",
       "links": [
-      "ttttttttttttttttttttttt"
-    ],
-    "category": "ttttt",
+        "ttttttttttttttttttttttt"
+      ],
+      "category": "ttttt",
       "thumbnail": [
         {
-          "url": "https://raw.githubusercontent.com/Nadishan-Dev/Cyber-News/refs/heads/main/images/cybernews.jpg", 
+          "url": "https://raw.githubusercontent.com/Nadishan-Dev/Cyber-News/refs/heads/main/images/cybernews.jpg",
           "alt": "GTA 6 Trailer"
         }
       ],
       "video": [
         {
-          "url": "", 
+          "url": "",
           "alt": ""
         }
       ],
       "summary": "We're thrilled to announce the official launch of the Cyber News Facebook page — your daily dose of cybersecurity updates, threats, and safety tips.",
       "content": "Hey everyone!\n\nExcited to announce the launch of Facebook page: Cyber News!\n\nIn today's rapidly evolving digital world, staying informed about cybersecurity is more crucial than ever. This page will be your go-to source for the latest news, trends, threats, and tips to help you navigate the cyber landscape safely and securely.",
-      "tags": ["cybersecurity", "news", "facebook", "launch"],
+      "tags": [
+        "cybersecurity",
+        "news",
+        "facebook",
+        "launch"
+      ],
       "views": 1247,
       "type": "post"
     },
@@ -37,32 +42,38 @@
       "author": "Cyber News Team",
       "date": "2025-05-07",
       "links": [
-      "ttttttttttttttttttttttt"
-    ],
-    "category": "ttttt",
+        "ttttttttttttttttttttttt"
+      ],
+      "category": "ttttt",
       "thumbnail": [
         {
-          "url": "https://raw.githubusercontent.com/Nadishan-Dev/Cyber-News/refs/heads/main/images/gta1.jpg", 
+          "url": "https://raw.githubusercontent.com/Nadishan-Dev/Cyber-News/refs/heads/main/images/gta1.jpg",
           "alt": "GTA 6 Trailer"
         },
         {
-          "url": "https://raw.githubusercontent.com/Nadishan-Dev/Cyber-News/refs/heads/main/images/gta2.png", 
+          "url": "https://raw.githubusercontent.com/Nadishan-Dev/Cyber-News/refs/heads/main/images/gta2.png",
           "alt": "GTA 6 2nd Trailer"
         },
         {
-          "url": "https://raw.githubusercontent.com/Nadishan-Dev/Cyber-News/refs/heads/main/images/gta3.jpg", 
+          "url": "https://raw.githubusercontent.com/Nadishan-Dev/Cyber-News/refs/heads/main/images/gta3.jpg",
           "alt": "GTA 6"
         }
       ],
       "video": [
         {
-          "url": "https://raw.githubusercontent.com/Nadishan-Dev/Cyber-News/main/videos/gta_trailer_2.mp4", 
+          "url": "https://raw.githubusercontent.com/Nadishan-Dev/Cyber-News/main/videos/gta_trailer_2.mp4",
           "alt": "GTA 6 Second Trailer"
         }
       ],
       "summary": "Rockstar Games has officially dropped the second trailer for GTA 6, revealing stunning gameplay, characters, and more from Vice City.",
       "content": "Big news from the gaming world! Rockstar Games has released the highly anticipated second trailer for Grand Theft Auto VI (GTA 6).\n\nThe trailer showcases breathtaking visuals of Vice City, a deeper look at the main characters, and hints at the storyline fans have been waiting for. With new mechanics, immersive environments, and evolved open-world gameplay, GTA 6 is shaping up to be the most ambitious entry in the series yet.\n\nStay tuned as we break down everything you might’ve missed in the trailer — from easter eggs to gameplay insights!",
-      "tags": ["GTA6", "gaming", "trailer", "rockstar", "vice city"],
+      "tags": [
+        "GTA6",
+        "gaming",
+        "trailer",
+        "rockstar",
+        "vice city"
+      ],
       "views": 0,
       "type": "post"
     },
@@ -74,9 +85,9 @@
       "author": "Cyber News Team",
       "date": "2025-05-08",
       "links": [
-      "ttttttttttttttttttttttt"
-    ],
-    "category": "ttttt",
+        "ttttttttttttttttttttttt"
+      ],
+      "category": "ttttt",
       "thumbnail": [
         {
           "url": "https://raw.githubusercontent.com/Nadishan-Dev/Cyber-News/refs/heads/main/images/iPhone%20maker%20announces%20plan%20to%20build%20Mitsubishi%20EVs.webp",
@@ -91,7 +102,14 @@
       ],
       "summary": "Foxconn, Apple’s iPhone manufacturer, plans to build electric vehicles for Mitsubishi Motors in Taiwan under a new partnership, with the first model expected by the end of 2026 in Australia and New Zealand.",
       "content": "Foxconn, the maker of Apple's iPhones, has announced plans to produce electric vehicles (EV) for Japanese car giant Mitsubishi Motors. Under a new agreement in principle, Foxconn's EV joint venture, Foxtron, will design and manufacture vehicles in Taiwan specifically for Mitsubishi. The companies aim to have the new model ready by the end of next year, marking Foxconn’s first major deal in the EV sector.\n\nThe collaboration represents a significant step for both companies. Foxtron, a joint venture between Foxconn and Taiwanese car maker Yulon Motor, will be responsible for the car's design and manufacturing management. The resulting EVs are expected to enter the Australian and New Zealand markets in the second half of 2026.\n\nCurrently, the deal is a memorandum of understanding—a non-binding agreement—though both parties confirmed they will continue discussions toward a final contract. Foxconn, known as the world’s largest contract electronics manufacturer and a key Apple supplier, has shown growing interest in the automobile sector, including previous talks with Nissan.\n\nMitsubishi Motors is part of a broader automotive alliance with Nissan and Renault. The partnership comes as Japanese automakers face increasing pressure from rapidly growing Chinese EV brands like BYD, especially in regions such as South East Asia, South America, and Europe.\n\nThis move reflects the global shift toward electrification and the intensifying competition in the EV market, where established brands are seeking innovative ways to keep up with China’s swift advancements.",
-      "tags": ["Electric cars", "Foxconn", "Mitsubishi", "Apple", "Car industry", "International Business"],
+      "tags": [
+        "Electric cars",
+        "Foxconn",
+        "Mitsubishi",
+        "Apple",
+        "Car industry",
+        "International Business"
+      ],
       "views": 0,
       "type": "post"
     },
@@ -103,9 +121,9 @@
       "author": "Cyber News Team",
       "date": "2025-05-08",
       "links": [
-      "ttttttttttttttttttttttt"
-    ],
-    "category": "ttttt",
+        "ttttttttttttttttttttttt"
+      ],
+      "category": "ttttt",
       "thumbnail": [
         {
           "url": "https://raw.githubusercontent.com/Nadishan-Dev/Cyber-News/refs/heads/main/images/YouTube.jpg",
@@ -124,67 +142,91 @@
       ],
       "summary": "YouTube remains the undisputed leader in online video sharing and streaming, providing content creators and audiences worldwide with unmatched access to videos, live streams, monetization tools, and community engagement features.",
       "content": "YouTube, launched in 2005 and acquired by Google in 2006, has grown into the world's most popular video-sharing platform. With over 2.5 billion monthly users and billions of hours watched every day, YouTube dominates the digital video space.\n\nThe platform allows creators to upload and share videos globally, with tools for monetization, live streaming, community posts, and analytics. YouTube's algorithm suggests personalized content, helping users discover new creators and topics.\n\nIn addition to entertainment, YouTube serves as an educational hub, a news source, and a marketing tool for businesses. Features like YouTube Shorts, Super Chat, Memberships, and the YouTube Partner Program empower creators to earn and grow communities.\n\nDespite facing competition from platforms like TikTok, Instagram Reels, and Twitch, YouTube remains unmatched in content variety, video length flexibility, and monetization options.\n\nWith continuous updates and support for creators and viewers alike, YouTube continues to shape the future of video consumption on the internet.",
-      "tags": ["YouTube", "Video Platform", "Content Creators", "Streaming", "Google", "Online Video"],
+      "tags": [
+        "YouTube",
+        "Video Platform",
+        "Content Creators",
+        "Streaming",
+        "Google",
+        "Online Video"
+      ],
       "views": 0,
       "type": "post"
     },
     {
-    "id": "005",
-    "postid": "coldriver-lostkeys-malware",
-    "title": "Russian Hackers Using ClickFix Fake CAPTCHA to Deploy New LOSTKEYS Malware",
-    "slug": "coldriver-lostkeys-malware",
-    "author": "Cyber News Team",
-    "date": "2025-05-08",
-    "links": [
-      "ttttttttttttttttttttttt"
-    ],
-    "category": "ttttt",
-    "thumbnail": [
-      {
-        "url": "https://raw.githubusercontent.com/Nadishan-Dev/Cyber-News/refs/heads/main/images/malware-click.webp", 
-        "alt": ""
-      }
-    ],
-    "video": [
-      {
-        "url": "", 
-        "alt": ""
-      }
-    ],
-    "summary": "Russia-linked hackers known as COLDRIVER are deploying a new spyware tool, LOSTKEYS, using fake CAPTCHA pages as bait in a sophisticated cyber-espionage campaign.",
-    "content": "The Russia-linked threat group COLDRIVER has been linked to a new malware strain named LOSTKEYS, discovered during recent cyber-espionage operations. This malware is spread via fake CAPTCHA lures resembling ClickFix pop-ups. \n\nAccording to Google’s Threat Intelligence Group (GTIG), LOSTKEYS is designed to steal specific file types from targeted directories and collect sensitive system data, including running processes. The malware has been active in January, March, and April of 2025.\n\nIts targets include Western government and military advisors (both current and former), journalists, think tanks, NGOs, and Ukrainian-affiliated individuals. This marks a shift in COLDRIVER’s strategy, which previously focused on credential phishing. \n\nLOSTKEYS is the second malware attributed to the group, following SPICA. COLDRIVER is also known by aliases like Callisto, Star Blizzard, and UNC4057, and remains a persistent threat in the geopolitical cyber landscape.",
-    "tags": ["cybersecurity", "malware", "Russia", "espionage", "LOSTKEYS", "COLDRIVER"],
-    "views": 0,
-    "type": "post"
+      "id": "005",
+      "postid": "coldriver-lostkeys-malware",
+      "title": "Russian Hackers Using ClickFix Fake CAPTCHA to Deploy New LOSTKEYS Malware",
+      "slug": "coldriver-lostkeys-malware",
+      "author": "Cyber News Team",
+      "date": "2025-05-08",
+      "links": [
+        "ttttttttttttttttttttttt"
+      ],
+      "category": "ttttt",
+      "thumbnail": [
+        {
+          "url": "https://raw.githubusercontent.com/Nadishan-Dev/Cyber-News/refs/heads/main/images/malware-click.webp",
+          "alt": ""
+        }
+      ],
+      "video": [
+        {
+          "url": "",
+          "alt": ""
+        }
+      ],
+      "summary": "Russia-linked hackers known as COLDRIVER are deploying a new spyware tool, LOSTKEYS, using fake CAPTCHA pages as bait in a sophisticated cyber-espionage campaign.",
+      "content": "The Russia-linked threat group COLDRIVER has been linked to a new malware strain named LOSTKEYS, discovered during recent cyber-espionage operations. This malware is spread via fake CAPTCHA lures resembling ClickFix pop-ups. \n\nAccording to Google’s Threat Intelligence Group (GTIG), LOSTKEYS is designed to steal specific file types from targeted directories and collect sensitive system data, including running processes. The malware has been active in January, March, and April of 2025.\n\nIts targets include Western government and military advisors (both current and former), journalists, think tanks, NGOs, and Ukrainian-affiliated individuals. This marks a shift in COLDRIVER’s strategy, which previously focused on credential phishing. \n\nLOSTKEYS is the second malware attributed to the group, following SPICA. COLDRIVER is also known by aliases like Callisto, Star Blizzard, and UNC4057, and remains a persistent threat in the geopolitical cyber landscape.",
+      "tags": [
+        "cybersecurity",
+        "malware",
+        "Russia",
+        "espionage",
+        "LOSTKEYS",
+        "COLDRIVER"
+      ],
+      "views": 0,
+      "type": "post"
     },
     {
-    "id": "006",
-    "postid": "apple-ai-search-safari",
-    "title": "Apple Looks to Add AI Search to Safari in Potential Blow for Google",
-    "slug": "apple-ai-search-safari",
-    "author": "Cyber News Team",
-    "date": "2025-05-08",
-    "links": [
-      "ttttttttttttttttttttttt"
-    ],
-    "category": "ttttt",
-    "thumbnail": [
-      {
-        "url": "https://raw.githubusercontent.com/Nadishan-Dev/Cyber-News/refs/heads/main/images/safari.jpg", 
-        "alt": "apple safari"
-      }
-    ],
-    "video": [
-      {
-        "url": "", 
-        "alt": ""
-      }
-    ],
-    "summary": "Apple plans to integrate AI-powered search into Safari, potentially threatening Google's dominance as the default search provider on iOS devices.",
-    "content": "Apple is reportedly exploring the integration of AI-driven search engines into its Safari browser, according to Bloomberg News. This move could challenge Google's long-standing dominance in the search market, especially as it pays Apple approximately $20 billion annually to remain the default engine.\n\nApple executive Eddy Cue, during his testimony in the U.S. Department of Justice's antitrust case against Google, stated that Safari searches declined last month due to users increasingly using AI tools. This shift signals growing interest in AI alternatives like OpenAI and Perplexity.\n\nApple has already partnered with OpenAI to bring ChatGPT into Siri, and Google is working on securing a deal to integrate Gemini AI into Apple devices by mid-year. Analysts believe that even if Google loses its exclusive default position on Safari, it could face serious consequences in the digital ad space.\n\nCue mentioned that Apple would consider adding AI search engines to Safari's list of search providers, although they may not replace Google as the default. As Apple leans further into AI, the traditional search landscape may face a major disruption.",
-    "tags": ["Apple", "Safari", "AI", "Google", "search engine", "OpenAI", "ChatGPT", "Perplexity", "Gemini"],
-    "views": 0,
-    "type": "post"
+      "id": "006",
+      "postid": "apple-ai-search-safari",
+      "title": "Apple Looks to Add AI Search to Safari in Potential Blow for Google",
+      "slug": "apple-ai-search-safari",
+      "author": "Cyber News Team",
+      "date": "2025-05-08",
+      "links": [
+        "ttttttttttttttttttttttt"
+      ],
+      "category": "ttttt",
+      "thumbnail": [
+        {
+          "url": "https://raw.githubusercontent.com/Nadishan-Dev/Cyber-News/refs/heads/main/images/safari.jpg",
+          "alt": "apple safari"
+        }
+      ],
+      "video": [
+        {
+          "url": "",
+          "alt": ""
+        }
+      ],
+      "summary": "Apple plans to integrate AI-powered search into Safari, potentially threatening Google's dominance as the default search provider on iOS devices.",
+      "content": "Apple is reportedly exploring the integration of AI-driven search engines into its Safari browser, according to Bloomberg News. This move could challenge Google's long-standing dominance in the search market, especially as it pays Apple approximately $20 billion annually to remain the default engine.\n\nApple executive Eddy Cue, during his testimony in the U.S. Department of Justice's antitrust case against Google, stated that Safari searches declined last month due to users increasingly using AI tools. This shift signals growing interest in AI alternatives like OpenAI and Perplexity.\n\nApple has already partnered with OpenAI to bring ChatGPT into Siri, and Google is working on securing a deal to integrate Gemini AI into Apple devices by mid-year. Analysts believe that even if Google loses its exclusive default position on Safari, it could face serious consequences in the digital ad space.\n\nCue mentioned that Apple would consider adding AI search engines to Safari's list of search providers, although they may not replace Google as the default. As Apple leans further into AI, the traditional search landscape may face a major disruption.",
+      "tags": [
+        "Apple",
+        "Safari",
+        "AI",
+        "Google",
+        "search engine",
+        "OpenAI",
+        "ChatGPT",
+        "Perplexity",
+        "Gemini"
+      ],
+      "views": 0,
+      "type": "post"
     },
     {
       "id": "007",
@@ -194,9 +236,9 @@
       "author": "Cyber News Team",
       "date": "2025-05-09",
       "links": [
-      "ttttttttttttttttttttttt"
-    ],
-    "category": "ttttt",
+        "ttttttttttttttttttttttt"
+      ],
+      "category": "ttttt",
       "thumbnail": [
         {
           "url": "https://raw.githubusercontent.com/Nadishan-Dev/Cyber-News/refs/heads/main/images/Bill-gates-facebook-1200x675.jpg",
@@ -205,13 +247,20 @@
       ],
       "video": [
         {
-          "url": "https://github.com/Nadishan-Dev/Cyber-News/raw/refs/heads/main/videos/videoplayback.mp4", 
+          "url": "https://github.com/Nadishan-Dev/Cyber-News/raw/refs/heads/main/videos/videoplayback.mp4",
           "alt": "Bill Gates"
         }
       ],
       "summary": "Bill Gates emphasized the transformative potential of AI in healthcare, education, and climate change during a global tech conference.",
       "content": "During a global technology summit, Bill Gates outlined his optimistic vision of AI as a tool to combat global challenges. He highlighted AI's potential in improving medical diagnostics, personalizing education, and optimizing climate models. Gates also discussed ethical concerns and emphasized the need for global cooperation and regulations.\n\nHe acknowledged risks such as job displacement and algorithmic bias, advocating for transparency in AI development. Gates concluded by urging governments, researchers, and corporations to work together in ensuring AI benefits humanity equitably.",
-      "tags": ["AI", "Bill Gates", "Global Tech", "Healthcare", "Education", "Climate Change"],
+      "tags": [
+        "AI",
+        "Bill Gates",
+        "Global Tech",
+        "Healthcare",
+        "Education",
+        "Climate Change"
+      ],
       "views": 0,
       "type": "post"
     },
@@ -223,9 +272,9 @@
       "author": "Chris Vallance",
       "date": "2025-05-09",
       "links": [
-      "ttttttttttttttttttttttt"
-    ],
-    "category": "ttttt",
+        "ttttttttttttttttttttttt"
+      ],
+      "category": "ttttt",
       "thumbnail": [
         {
           "url": "https://raw.githubusercontent.com/Nadishan-Dev/Cyber-News/refs/heads/main/images/Wikipedia.webp",
@@ -234,70 +283,59 @@
       ],
       "video": [
         {
-          "url": "", 
+          "url": "",
           "alt": ""
         }
       ],
       "summary": "Wikipedia is taking legal action against the UK's Online Safety Act, arguing it threatens the privacy and safety of its volunteer editors and could misclassify the site under overly broad regulations.",
       "content": "Wikipedia is taking legal action against new Online Safety Act regulations it says could threaten the safety of its volunteer editors and their ability to keep harmful content off the site. The Wikimedia Foundation is seeking a judicial review of rules that could mean Wikipedia is subjected to the toughest duties required of websites under the act.\n\nLead counsel Phil Bradley-Schmieg called it 'unfortunate' that they must defend Wikipedia's contributors from flawed legislation. Ofcom has not yet categorized any services but has requested information from Wikipedia.\n\nThe Foundation fears that if Wikipedia is designated as a Category 1 service, it may be forced to verify editors' identities, potentially endangering their privacy and safety. This could discourage contributions, especially to sensitive or controversial topics. Wikipedia argues the regulations risk both overregulating low-risk sites like theirs and missing more harmful platforms.\n\nLegal experts say Wikimedia faces a high bar to overturn the regulations. The case is seen as the first of many likely challenges to the vast and complex Online Safety Act.",
-      "tags": ["Wikipedia", "Online Safety Act", "Regulation", "Privacy", "UK Law", "Ofcom", "Judicial Review"],
+      "tags": [
+        "Wikipedia",
+        "Online Safety Act",
+        "Regulation",
+        "Privacy",
+        "UK Law",
+        "Ofcom",
+        "Judicial Review"
+      ],
       "views": 0,
       "type": "post"
     },
-{
-  "id": "009",
-  "postid": "manus-unlocked-free-daily-bonus",
-  "title": "Manus Unlocked: No wait-lists, Free Daily tasks & 1,000 bonus credits",
-  "slug": "manus-unlocked-free-daily-bonus",
-  "author": "Cyber News Team",
-  "date": "2025-05-13",
-  "links": [
-      "ttttttttttttttttttttttt"
-    ],
-    "category": "ttttt",
-  "thumbnail": [
     {
-      "url": "https://raw.githubusercontent.com/Nadishan-Dev/Cyber-News/main/images/Manus.png",
-      "alt": "Manus app promotional image"
+      "id": "009",
+      "postid": "manus-unlocked-free-daily-bonus",
+      "title": "Manus Unlocked: No wait-lists, Free Daily tasks & 1,000 bonus credits",
+      "slug": "manus-unlocked-free-daily-bonus",
+      "author": "Cyber News Team",
+      "date": "2025-05-13",
+      "links": [
+        "ttttttttttttttttttttttt"
+      ],
+      "category": "ttttt",
+      "thumbnail": [
+        {
+          "url": "https://raw.githubusercontent.com/Nadishan-Dev/Cyber-News/main/images/Manus.png",
+          "alt": "Manus app promotional image"
+        }
+      ],
+      "video": [
+        {
+          "url": "https://raw.githubusercontent.com/Nadishan-Dev/Cyber-News/main/videos/manus.mp4",
+          "alt": "Manus platform feature video"
+        }
+      ],
+      "summary": "Manus just got a big upgrade! No waitlist, daily free task with 300 credits, and a 1,000 credit bonus for everyone. Start exploring now!",
+      "content": "Starting today, we're launching additional access to Manus!\n\n*What's New:\n- Available to all users — no waitlist required\n- One free daily task (worth 300 credits)\n- A one-time 1,000 credit bonus for all users\n\nThis update brings more value and flexibility for everyone. Whether you're a returning user or brand new to Manus, you now have free tools to explore AI features every day. \n\nGet started here:* [https://manus.im/app](https://manus.im/app)",
+      "tags": [
+        "Manus",
+        "AI Tools",
+        "Productivity",
+        "Launch",
+        "Free Credits",
+        "No Waitlist"
+      ],
+      "views": 0,
+      "type": "post"
     }
-  ],
-  "video": [
-    {
-      "url": "https://raw.githubusercontent.com/Nadishan-Dev/Cyber-News/main/videos/manus.mp4",
-      "alt": "Manus platform feature video"
-    }
-  ],
-  "summary": "Manus just got a big upgrade! No waitlist, daily free task with 300 credits, and a 1,000 credit bonus for everyone. Start exploring now!",
-  "content": "Starting today, we're launching additional access to Manus!\n\n*What's New:\n- Available to all users — no waitlist required\n- One free daily task (worth 300 credits)\n- A one-time 1,000 credit bonus for all users\n\nThis update brings more value and flexibility for everyone. Whether you're a returning user or brand new to Manus, you now have free tools to explore AI features every day. \n\nGet started here:* [https://manus.im/app](https://manus.im/app)",
-  "tags": ["Manus", "AI Tools", "Productivity", "Launch", "Free Credits", "No Waitlist"],
-  "views": 0,
-  "type": "post"
-},
-{
-    "id": "010",
-    "postid": "testtt",
-    "title": "testtt",
-    "slug": "testtt",
-    "author": "tttttt",
-    "date": "2025-05-13",
-    "thumbnail": [
-      {
-        "url": "https://raw.githubusercontent.com/Nadishan-Dev/Cyber-News/main/images/cybernews.png",
-        "alt": "testtt"
-      }
-    ],
-    "video": [],
-    "summary": "tttttttttttttttttttttt",
-    "content": "ttttttttttttttttttttttttttttttttttttttttttttttttttttttttt",
-    "tags": [
-      "ttt"
-    ],
-    "views": 0,
-    "type": "post",
-    "links": [
-      "ttttttttttttttttttttttt"
-    ],
-    "category": "ttttt"
-  }
-]
+  ]
 }
