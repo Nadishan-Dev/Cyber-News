@@ -1,1 +1,23 @@
-[]
+{
+  "posts": [
+    {
+      "id": "a",
+      "postid": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+      "title": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+      "slug": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+      "author": "aaaaaaaaaaaaa",
+      "date": "2025-04-30",
+      "thumbnail": [],
+      "video": [],
+      "summary": "a",
+      "content": "a",
+      "tags": [
+        "a"
+      ],
+      "views": 0,
+      "type": "post",
+      "links": [],
+      "category": "a"
+    }
+  ]
+}
