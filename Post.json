@@ -433,6 +433,34 @@
       "type": "post",
       "links": [],
       "category": "Technology"
+    },
+    {
+      "id": "014",
+      "postid": "microsoft-to-lay-off-around-3-of-workforce-in-organization-wide-cuts",
+      "title": "Microsoft to lay off around 3% of workforce in organization-wide cuts",
+      "slug": "microsoft-to-lay-off-around-3-of-workforce-in-organization-wide-cuts",
+      "author": "Cyber News Team",
+      "date": "2025-05-14",
+      "thumbnail": [
+        {
+          "url": "https://raw.githubusercontent.com/Nadishan-Dev/Cyber-News/main/images/microsoft1.jpg",
+          "alt": "Microsoft to lay off around 3% of workforce in organization-wide cuts"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/Nadishan-Dev/Cyber-News/main/images/microsoft2.jpg",
+          "alt": "Microsoft to lay off around 3% of workforce in organization-wide cuts"
+        }
+      ],
+      "video": [],
+      "summary": "May 13 (Reuters) - Microsoft (MSFT.O), opens new tab said on Tuesday it was laying off less than 3% of its workforce, or around 6,000 employees, as the technology giant looks to rein in costs while funneling billions of dollars into its ambitious bet on artificial intelligence.\nThe cuts will be across all levels and geographies and are likely the largest since Microsoft laid off 10,000 employees in 2023. The company let a small number of staff go in January over performance-related issues, but the new cuts are not related to that, according to CNBC, which first reported the news.",
+      "content": "Big Tech has been spending heavily on AI as they see the new technology as a major growth engine, while slashing costs elsewhere to safeguard profit margins. Google has also laid off hundreds of employees in the past year, as it looks to control costs and prioritize AI, media reports have said.\n\"We continue to implement organizational changes necessary to best position the company for success in a dynamic marketplace,\" a Microsoft spokesperson said on mail.\nThe company, which had 228,000 workers as of June last year, regularly uses layoffs to prioritize staffing in its main focus areas.\nTuesday's move comes weeks after Microsoft posted stronger-than-expected growth in its cloud-computing business Azure and blowout results in the latest quarter, calming investor worries in an uncertain economy.\n\nBut the cost of scaling its AI infrastructure has weighed on profitability, with Microsoft Cloud margins narrowing to 69% in the March quarter from 72% a year ago.\nMicrosoft has earmarked $80 billion in capital spending this fiscal year, with most of it aimed at expanding data centers to ease capacity bottlenecks for artificial intelligence services.\nD.A. Davidson analyst Gil Luria said the layoffs showed Microsoft was \"very closely\" managing the margin pressure created by its heightened AI investments.\n\"We believe that every year Microsoft invests at the current levels, it would need to reduce headcount by at least 10,000 in order to make up for the higher depreciation levels due to their capital expenditures,\" he said.",
+      "tags": [
+        "Microsoft"
+      ],
+      "views": 0,
+      "type": "post",
+      "links": [],
+      "category": "Technology"
     }
   ]
 }
