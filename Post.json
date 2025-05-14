@@ -409,6 +409,30 @@
       "type": "post",
       "links": [],
       "category": "Technology"
+    },
+    {
+      "id": "013",
+      "postid": "france-s-le-monde-enters-into-content-partnership-with-ai-startup-perplexity",
+      "title": "France's Le Monde enters into content partnership with AI startup Perplexity",
+      "slug": "france-s-le-monde-enters-into-content-partnership-with-ai-startup-perplexity",
+      "author": "Cyber News Team",
+      "date": "2025-05-14",
+      "thumbnail": [
+        {
+          "url": "https://raw.githubusercontent.com/Nadishan-Dev/Cyber-News/main/images/perpexy.jpg",
+          "alt": "France's Le Monde enters into content partnership with AI startup Perplexity"
+        }
+      ],
+      "video": [],
+      "summary": "May 14 (Reuters) - French newspaper Le Monde entered into a content partnership with U.S.-based artificial intelligence company Perplexity on Wednesday, as AI startups compete for deals with news publications to improve the responses of their products amid intensifying competition.\nThe deal grants Perplexity access to Le Monde's content to enhance its search engine's responses, while the newspaper will use the Nvidia-backed (NVDA.O), opens new tab startup's technology to develop new AI products.",
+      "content": "This partnership will also support publishers whose content is featured in Perplexity's generated answers.\n\"At Le Monde, we have continued to explore new partnerships with leading AI players to enlarge our audience, expand our development capacities, and to build new sources of revenues,\" said Louis Dreyfus, Le Monde's CEO.\nPerplexity has already secured agreements with over a dozen media partners, including the Los Angeles Times and the Independent, as part of a program that shares a portion of ad revenue with the publishers.\nMeanwhile, AI firms have faced lawsuits from media groups and news publishers, who accuse them of unlawfully using content and articles without permission to train AI models.\nReporting by Zaheer Kachwala in Bengaluru; Editing by Mohammed Safi Shamsi",
+      "tags": [
+        "PerplexityAI"
+      ],
+      "views": 0,
+      "type": "post",
+      "links": [],
+      "category": "Technology"
     }
   ]
 }
