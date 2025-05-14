@@ -360,6 +360,31 @@
       "type": "post",
       "links": [],
       "category": "Technology"
+    },
+    {
+      "id": "011",
+      "postid": "advocacy-group-threatens-meta-with-injunction-over-use-of-eu-data-for-ai-training",
+      "title": "Advocacy group threatens Meta with injunction over use of EU data for AI training",
+      "slug": "advocacy-group-threatens-meta-with-injunction-over-use-of-eu-data-for-ai-training",
+      "author": "Cyber News Team",
+      "date": "2025-05-14",
+      "thumbnail": [
+        {
+          "url": "https://raw.githubusercontent.com/Nadishan-Dev/Cyber-News/main/images/meta.jpg",
+          "alt": "Advocacy group threatens Meta with injunction over use of EU data for AI training"
+        }
+      ],
+      "video": [],
+      "summary": "BRUSSELS, May 14 (Reuters) - Austrian advocacy group NOYB said on Wednesday it would seek an injunction against Meta Platforms (META.O), opens new tab that could lead to billion-euro damages claims if the tech giant goes ahead with plans to use Europeans' personal data to train its artificial intelligence models.\nNOYB (none of your business), led by privacy activist Max Schrems, said it had sent a cease and desist letter on Wednesday to Meta which plans to start using personal data from European users of Instagram and Facebook from May 27.",
+      "content": "BRUSSELS, May 14 (Reuters) - Austrian advocacy group NOYB said on Wednesday it would seek an injunction against Meta Platforms (META.O), opens new tab that could lead to billion-euro damages claims if the tech giant goes ahead with plans to use Europeans' personal data to train its artificial intelligence models.\nNOYB (none of your business), led by privacy activist Max Schrems, said it had sent a cease and desist letter on Wednesday to Meta which plans to start using personal data from European users of Instagram and Facebook from May 27.\n\nMeta has cited a legitimate interest under EU privacy rules for using users' data to train and develop its generative AI models and other AI tools, which can be shared with third parties.\nThe U.S. tech giant said last month that users would receive a link to a form where they can object to their data being used for training purposes and that private messages and public data from accounts of users under the age of 18 will not be used in the training.\nSchrems criticised Meta's rationale.\n\"The European Court of Justice has already held that Meta cannot claim a 'legitimate interest' in targeting users with advertising. How should it have a 'legitimate interest' to suck up all data for AI training?\" he said in a statement.\n\n\"We are currently evaluating our options to file injunctions, but there is also the option for a subsequent class action for non-material damages. If you think about the more than 400 million European Meta users who could all demand damages of just 500 euros or so, you can do the math,\" Schrems said.\nNOYB said an injunction could be filed under the EU Collective Redress which enables consumers to pursue collective lawsuits against companies in the bloc. It set a May 21 deadline for Meta to respond.\nNOYB, which last year called on EU privacy enforcers to act, said Meta could give users an option to opt-in rather than opt-out and also provide clear conditions for AI training such as using anonymised user data, in line with EU privacy rules.",
+      "tags": [
+        "Meta inc",
+        "AI"
+      ],
+      "views": 0,
+      "type": "post",
+      "links": [],
+      "category": "Technology"
     }
   ]
 }
