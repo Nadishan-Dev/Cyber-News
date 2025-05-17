@@ -14,6 +14,28 @@
       "time": "10:30:00",
       "request": "",
       "certificates": "HTML, CSS"
+    },
+    {
+      "stid": "002",
+      "account": "pending",
+      "payment": "",
+      "paydatetime": "",
+      "fname": "Nadishan",
+      "lname": "Thimira",
+      "username": "a",
+      "password": "a",
+      "email": "nadishandanthanarayana@gmail.com",
+      "date": "2025-05-17",
+      "time": "22:41:57",
+      "request": "",
+      "certificates": "",
+      "progress": {
+        "HTML": 0,
+        "CSS": 0,
+        "JavaScript": 0,
+        "Python": 0,
+        "SQL": 0
+      }
     }
   ]
 }
