@@ -590,6 +590,31 @@
       "type": "post",
       "links": [],
       "category": "Technology"
+    },
+    {
+      "id": "020",
+      "postid": "musk-s-xai-updates-grok-chatbot-after-white-genocide-comments",
+      "title": "Musk's xAI updates Grok chatbot after 'white genocide' comments",
+      "slug": "musk-s-xai-updates-grok-chatbot-after-white-genocide-comments",
+      "author": "Cyber News Team",
+      "date": "2025-05-17",
+      "uploadedAt": "17:33:15",
+      "thumbnail": [
+        {
+          "url": "https://raw.githubusercontent.com/Nadishan-Dev/Cyber-News/main/images/Elon-Musk-plans-to-take-xAI-chatbot-Grok-open-source-80-3.jpg",
+          "alt": "Musk's xAI updates Grok chatbot after 'white genocide' comments"
+        }
+      ],
+      "video": [],
+      "summary": "May 16 (Reuters) - Elon Musk's xAI responded to widespread reports that its Grok chatbot made claims about a genocide against white citizens in South Africa, saying there had been an unauthorized change to the artificial intelligence bot. In a post on X on Thursday, xAI said it would update the system to address the problem.\nIssues of political biases, hate speech and accuracy of AI chatbots have been a concern since at least the launch of OpenAI's ChatGPT in 2022.",
+      "content": "XAI said that early on Wednesday the unauthorized change was made to Grok's response software, circumventing the normal review process.\n\"This change, which directed Grok to provide a specific response on a political topic, violated xAI's internal policies and core values,\" xAI said.\nSome X users on Wednesday noticed that Grok brought up the topic of \"white genocide\" in South Africa in unrelated discussions about other matters, sharing screenshots of their exchanges\n\nCritics of a land expropriation policy in South Africa, including white South African-born Musk, have called it racist against whites. The South Africa government says that there is no evidence of persecution and that claims by U.S. President Donald Trump and others of \"genocide\" are unfounded.\nIn response to the incident this week, xAI said it would openly publish Grok's system prompts on GitHub, where the public can view and provide feedback on every prompt change made to the chatbot.\n\nIt would put in place a round-the-clock monitoring team to respond to incidents with Grok's answers that are not caught by automated systems, it added.",
+      "tags": [
+        "GrockAI"
+      ],
+      "views": 0,
+      "type": "post",
+      "links": [],
+      "category": "Technology"
     }
   ]
 }
