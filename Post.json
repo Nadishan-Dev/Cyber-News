@@ -540,6 +540,31 @@
       "type": "post",
       "links": [],
       "category": "Technology"
+    },
+    {
+      "id": "018",
+      "postid": "google-updates-its-g-logo",
+      "title": "Google Updates Its G Logo",
+      "slug": "google-updates-its-g-logo",
+      "author": "Cyber News Team",
+      "date": "2025-05-17",
+      "uploadedAt": "09:25:06",
+      "thumbnail": [
+        {
+          "url": "https://raw.githubusercontent.com/Nadishan-Dev/Cyber-News/main/images/GoogleNewGLogoGradient-750x420.webp",
+          "alt": "Google Updates Its G Logo"
+        }
+      ],
+      "video": [],
+      "summary": "Google has made a small update to its well-known G logo with a cleaner look.",
+      "content": "Google has quietly updated its popular G logo with a few visual changes. The new version keeps the original colors but includes smoother curves and better shape balance. This update reflects Google's focus on modern design and visual consistency across its products. Although the changes are subtle, they improve the logo's appearance on both light and dark backgrounds.",
+      "tags": [
+        "Google"
+      ],
+      "views": 0,
+      "type": "post",
+      "links": [],
+      "category": "Technology"
     }
   ]
 }
