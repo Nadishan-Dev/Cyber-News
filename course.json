@@ -28,14 +28,7 @@
       "date": "2025-05-17",
       "time": "22:41:57",
       "request": "",
-      "certificates": "",
-      "progress": {
-        "HTML": 0,
-        "CSS": 0,
-        "JavaScript": 0,
-        "Python": 0,
-        "SQL": 0
-      }
+      "certificates": ""
     }
   ]
 }
