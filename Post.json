@@ -640,6 +640,31 @@
       "type": "post",
       "links": [],
       "category": "DarkWeb"
+    },
+    {
+      "id": "022",
+      "postid": "germany-dismantles-major-dark-web-op-stream-operation",
+      "title": "Germany Dismantles Major Dark Web OP Stream Operation",
+      "slug": "germany-dismantles-major-dark-web-op-stream-operation",
+      "author": "Cyber News Team",
+      "date": "2025-05-17",
+      "uploadedAt": "18:45:57",
+      "thumbnail": [
+        {
+          "url": "https://raw.githubusercontent.com/Nadishan-Dev/Cyber-News/main/images/thumbs_b_c_36dfc73941786c6b2ee13adbb8459b12-768x432.jpg",
+          "alt": "Germany Dismantles Major Dark Web OP Stream Operation"
+        }
+      ],
+      "video": [],
+      "summary": "German authorities led a global takedown of a massive darknet platform hosting child exploitation content. With help from 38 countries, they identified 1,393 suspects and over 1.8 million users. Key evidence included cryptocurrency tracking and seized devices. The platform contained thousands of abuse images and videos. Investigations and searches continue worldwide as law enforcement analyzes confiscated data.",
+      "content": "German authorities have successfully taken down one of the world's largest darknet platforms for streaming child exploitation content. The operation involved 38 law enforcement agencies from 38 countries, including the US, the UK, and several EU nations.\nThe platform, which had over 1.8 million users worldwide, contained tens of thousands of disturbing images and videos depicting severe child sexual abuse. The operation identified 1,393 suspects globally, including more than 100 persons in Germany alone, despite attempts by perpetrators to conceal their identities. A crucial part of the investigation involved tracking cryptocurrency transactions used by the platform's operators and users to avoid detection.\nExtensive searches were conducted between March 10 and 23, leading to the seizure of electronic devices such as mobile phones and computers. The investigation is ongoing in multiple countries as law enforcement agencies analyze confiscated materials and conduct further searches.",
+      "tags": [
+        "DarkWeb"
+      ],
+      "views": 0,
+      "type": "post",
+      "links": [],
+      "category": "DarkWeb"
     }
   ]
 }
