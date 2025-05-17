@@ -1,74 +1,17 @@
-[
-  {
-    "id": "0001",
-    "cid": "ethical-hacking-fundamentals",
-    "title": "Ethical Hacking Fundamentals",
-    "description": "Learn the basics of ethical hacking and penetration testing with hands-on labs and practical exercises.",
-    "image": "https://via.placeholder.com/400x250?text=Ethical+Hacking",
-    "tags": ["beginner", "security", "hacking"],
-    "price": 49.99
-  },
-  {
-    "id": "0002",
-    "cid": "advanced-network-security",
-    "title": "Advanced Network Security",
-    "description": "Master advanced network security concepts and learn how to protect enterprise networks from sophisticated attacks.",
-    "image": "https://via.placeholder.com/400x250?text=Network+Security",
-    "tags": ["advanced", "network", "security"],
-    "price": 79.99
-  },
-  {
-    "id": "0003",
-    "cid": "malware-analysis-techniques",
-    "title": "Malware Analysis Techniques",
-    "description": "Develop skills to analyze, identify and mitigate various types of malware using industry-standard tools.",
-    "image": "https://via.placeholder.com/400x250?text=Malware+Analysis",
-    "tags": ["intermediate", "malware", "reverse-engineering"],
-    "price": 69.99
-  },
-  {
-    "id": "0004",
-    "cid": "web-application-security",
-    "title": "Web Application Security",
-    "description": "Learn to identify and exploit common web vulnerabilities, and how to secure web applications effectively.",
-    "image": "https://via.placeholder.com/400x250?text=Web+Security",
-    "tags": ["intermediate", "web", "owasp"],
-    "price": 59.99
-  },
-  {
-    "id": "0005",
-    "cid": "cloud-security-essentials",
-    "title": "Cloud Security Essentials",
-    "description": "Understand the security challenges in cloud environments and learn best practices for securing cloud infrastructure.",
-    "image": "https://via.placeholder.com/400x250?text=Cloud+Security",
-    "tags": ["intermediate", "cloud", "aws", "azure"],
-    "price": 89.99
-  },
-  {
-    "id": "0006",
-    "cid": "incident-response-management",
-    "title": "Incident Response & Management",
-    "description": "Learn to effectively respond to and manage security incidents in enterprise environments.",
-    "image": "https://via.placeholder.com/400x250?text=Incident+Response",
-    "tags": ["advanced", "incident-response", "forensics"],
-    "price": 74.99
-  },
-  {
-    "id": "0007",
-    "cid": "cybersecurity-for-managers",
-    "title": "Cybersecurity for Managers",
-    "description": "A non-technical course designed for managers to understand cybersecurity risks and governance.",
-    "image": "https://via.placeholder.com/400x250?text=Management+Security",
-    "tags": ["beginner", "management", "governance"],
-    "price": 54.99
-  },
-  {
-    "id": "0008",
-    "cid": "mobile-application-security",
-    "title": "Mobile Application Security",
-    "description": "Learn to identify vulnerabilities in mobile applications and implement secure coding practices.",
-    "image": "https://via.placeholder.com/400x250?text=Mobile+Security",
-    "tags": ["intermediate", "mobile", "android", "ios"],
-    "price": 64.99
-  }
-]
+{
+  course [
+    "stid": "001",
+    "account": "apruved",
+    "payment": "",
+    "paydatetime": "",
+    "fname": "Nadishan",
+    "lname": "Danthanrayana",
+    "username": "nadishan",
+    "password": "123",
+    "email": "a@a.com",
+    "date": "",
+    "time": "",
+    "request" "",
+    "setificates": "",
+  ]
+}
