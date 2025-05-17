@@ -1,19 +1,3 @@
 {
-  "course": [
-    {
-      "stid": "001",
-      "account": "approved",
-      "payment": "paid",
-      "paydatetime": "2023-10-15T14:30:00",
-      "fname": "Nadishan",
-      "lname": "Danthanrayana",
-      "username": "nadishan",
-      "password": "123",
-      "email": "a@a.com",
-      "date": "2023-09-01",
-      "time": "10:30:00",
-      "request": "",
-      "certificates": "HTML, CSS",
-    }
-  ]
+ 
 }
