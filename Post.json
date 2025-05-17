@@ -565,6 +565,31 @@
       "type": "post",
       "links": [],
       "category": "Technology"
+    },
+    {
+      "id": "019",
+      "postid": "nvidia-ceo-says-next-chip-after-h20-for-china-won-t-be-from-hopper-series",
+      "title": "Nvidia CEO says next chip after H20 for China won't be from Hopper series",
+      "slug": "nvidia-ceo-says-next-chip-after-h20-for-china-won-t-be-from-hopper-series",
+      "author": "Cyber News Team",
+      "date": "2025-05-17",
+      "uploadedAt": "11:07:11",
+      "thumbnail": [
+        {
+          "url": "https://raw.githubusercontent.com/Nadishan-Dev/Cyber-News/main/images/BUOK7YKX75JX5E4MKYVOWMBS4A.jpg",
+          "alt": "Nvidia CEO says next chip after H20 for China won't be from Hopper series"
+        }
+      ],
+      "video": [],
+      "summary": "Nvidia CEO Jensen Huang announced that the company will not release a new version of the Hopper H20 chip for China due to U.S. export restrictions. While Nvidia is reassessing its strategy for the Chinese market, Huang confirmed that modifying the Hopper chip further is no longer feasible.",
+      "content": "During a livestreamed event in Taipei, Nvidia CEO Jensen Huang stated that the company will not produce another version of its Hopper H20 chip for China, following U.S. government-imposed sales restrictions. He emphasized that further modification of the Hopper chip is no longer possible. Nvidia is currently evaluating alternative approaches to maintain its presence in the Chinese market, which has been significantly impacted by U.S. export controls. The statement, shared via Taiwan's Formosa TV News network, underscores the growing challenge U.S. tech companies face in navigating geopolitical tensions while sustaining global business operations, particularly in crucial markets like China.",
+      "tags": [
+        "AI"
+      ],
+      "views": 0,
+      "type": "post",
+      "links": [],
+      "category": "Technology"
     }
   ]
 }
