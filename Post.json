@@ -486,6 +486,35 @@
       "type": "post",
       "links": [],
       "category": "Technology"
+    },
+    {
+      "id": "016",
+      "postid": "huawei-launches-first-laptop-powered-by-harmonyos",
+      "title": "Huawei Launches First Laptop Powered by HarmonyOS",
+      "slug": "huawei-launches-first-laptop-powered-by-harmonyos",
+      "author": "Cyber News Team",
+      "date": "2025-05-17",
+      "uploadedAt": "08:31:13",
+      "thumbnail": [
+        {
+          "url": "https://raw.githubusercontent.com/Nadishan-Dev/Cyber-News/main/images/huawei-horizontal6099.logowik.com.webp",
+          "alt": "Huawei Launches First Laptop Powered by HarmonyOS"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/Nadishan-Dev/Cyber-News/main/images/ChatGPT-Image-May-10-2025-at-07_20_15-PM-696x464.png",
+          "alt": "Huawei Launches First Laptop Powered by HarmonyOS"
+        }
+      ],
+      "video": [],
+      "summary": "Huawei has released its first laptop running HarmonyOS, moving further from Windows.",
+      "content": "Huawei has officially launched its first-ever laptop powered by HarmonyOS. This marks a major step in its goal to build an independent ecosystem, free from Western software. The laptop includes strong hardware, a clean design, and full support for other Huawei devices. This release could signal a new chapter for China-based operating systems in the global market.",
+      "tags": [
+        "Huawei"
+      ],
+      "views": 0,
+      "type": "post",
+      "links": [],
+      "category": "Technology"
     }
   ]
 }
