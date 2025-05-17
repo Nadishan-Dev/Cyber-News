@@ -1,17 +1,92 @@
 {
-  course [
-    "stid": "001",
-    "account": "apruved",
-    "payment": "",
-    "paydatetime": "",
-    "fname": "Nadishan",
-    "lname": "Danthanrayana",
-    "username": "nadishan",
-    "password": "123",
-    "email": "a@a.com",
-    "date": "",
-    "time": "",
-    "request" "",
-    "setificates": "",
+  "course": [
+    {
+      "stid": "001",
+      "account": "approved",
+      "payment": "paid",
+      "paydatetime": "2023-10-15T14:30:00",
+      "fname": "Nadishan",
+      "lname": "Danthanrayana",
+      "username": "nadishan",
+      "password": "123",
+      "email": "a@a.com",
+      "date": "2023-09-01",
+      "time": "10:30:00",
+      "request": "",
+      "certificates": "HTML, CSS",
+      "progress": {
+        "HTML": 90,
+        "CSS": 85,
+        "JavaScript": 30,
+        "Python": 0,
+        "SQL": 0
+      }
+    },
+    {
+      "stid": "002",
+      "account": "approved",
+      "payment": "paid",
+      "paydatetime": "2023-10-20T09:15:00",
+      "fname": "John",
+      "lname": "Doe",
+      "username": "johndoe",
+      "password": "123456",
+      "email": "john@example.com",
+      "date": "2023-09-05",
+      "time": "11:45:00",
+      "request": "Python",
+      "certificates": "HTML",
+      "progress": {
+        "HTML": 100,
+        "CSS": 60,
+        "JavaScript": 40,
+        "Python": 75,
+        "SQL": 10
+      }
+    },
+    {
+      "stid": "003",
+      "account": "pending",
+      "payment": "",
+      "paydatetime": "",
+      "fname": "Jane",
+      "lname": "Smith",
+      "username": "janesmith",
+      "password": "password123",
+      "email": "jane@example.com",
+      "date": "2023-09-10",
+      "time": "15:20:00",
+      "request": "",
+      "certificates": "",
+      "progress": {
+        "HTML": 50,
+        "CSS": 20,
+        "JavaScript": 0,
+        "Python": 0,
+        "SQL": 0
+      }
+    },
+    {
+      "stid": "004",
+      "account": "approved",
+      "payment": "paid",
+      "paydatetime": "2023-11-05T11:30:00",
+      "fname": "Michael",
+      "lname": "Johnson",
+      "username": "mjohnson",
+      "password": "mjpass",
+      "email": "michael@example.com",
+      "date": "2023-09-15",
+      "time": "09:00:00",
+      "request": "",
+      "certificates": "HTML, CSS, JavaScript",
+      "progress": {
+        "HTML": 100,
+        "CSS": 100,
+        "JavaScript": 100,
+        "Python": 65,
+        "SQL": 80
+      }
+    }
   ]
 }
