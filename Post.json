@@ -615,6 +615,31 @@
       "type": "post",
       "links": [],
       "category": "Technology"
+    },
+    {
+      "id": "021",
+      "postid": "dark-web-digest-may-2025-edition",
+      "title": "Dark Web Digest May 2025 Edition",
+      "slug": "dark-web-digest-may-2025-edition",
+      "author": "Cyber News Team",
+      "date": "2025-05-17",
+      "uploadedAt": "18:34:11",
+      "thumbnail": [
+        {
+          "url": "https://raw.githubusercontent.com/Nadishan-Dev/Cyber-News/main/images/deep-web-digest-march-2025-768x384.png",
+          "alt": "Dark Web Digest May 2025 Edition"
+        }
+      ],
+      "video": [],
+      "summary": "In April, the FBI cracked down on dark web crime, arresting 79 linked to child abuse and dismantling the ElonmuskWHM laundering ring. Despite this, threats persist: Australian bank credentials leaked, a new Xanthorox AI hacking tool emerged, and ransomware hit U.S. agencies. A Turkish man was also arrested for involvement in a child abuse network.",
+      "content": "April saw big, threatening news on the dark web. The FBI arrested a money laundering operation called ElonmuskWHM. While other news reports circulated about the Kidflix child abuse network being taken down by the agency, 79 people were arrested in connection with the operation.\n\nHowever, the dark web still holds serious threats. Login credentials from central Australian banks were leaked. A new Xanthorox AI hacking tool appeared, offering criminals a wide range of capabilities. Meanwhile, a Turkish man was arrested for his role in a dark web child abuse network. Ransomware groups continued to target government agencies, like one in Oregon.\n\nThe increasing danger of dark web crime and the ongoing efforts to tackle this crime wave are shown monthly. Let us discuss the major dark web incident that happened in April.",
+      "tags": [
+        "DarkWeb"
+      ],
+      "views": 0,
+      "type": "post",
+      "links": [],
+      "category": "DarkWeb"
     }
   ]
 }
