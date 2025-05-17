@@ -515,6 +515,31 @@
       "type": "post",
       "links": [],
       "category": "Technology"
+    },
+    {
+      "id": "017",
+      "postid": "steam-breach-millions-of-accounts-leaked-online",
+      "title": "Steam Breach: Millions of Accounts Leaked Online",
+      "slug": "steam-breach-millions-of-accounts-leaked-online",
+      "author": "Cyber News Team",
+      "date": "2025-05-17",
+      "uploadedAt": "08:34:28",
+      "thumbnail": [
+        {
+          "url": "https://raw.githubusercontent.com/Nadishan-Dev/Cyber-News/main/images/Steam-Valve.jpg",
+          "alt": "Steam Breach: Millions of Accounts Leaked Online"
+        }
+      ],
+      "video": [],
+      "summary": "A major data breach has exposed millions of Steam user accounts on the internet.",
+      "content": "Steam has suffered a major security breach, leading to the leak of account details for millions of users. The leaked data includes usernames, emails, and purchase records. The breach was shared on several forums used by hackers. Valve has not released an official update yet. All Steam users are advised to change their passwords and turn on two-factor authentication to protect their accounts.",
+      "tags": [
+        "Steam"
+      ],
+      "views": 0,
+      "type": "post",
+      "links": [],
+      "category": "Technology"
     }
   ]
 }
