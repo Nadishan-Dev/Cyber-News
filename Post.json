@@ -686,6 +686,38 @@
       "type": "post",
       "links": [],
       "category": "Technology"
+    },
+    {
+      "id": "024",
+      "postid": "what-is-codex-ai-coding-agent-by-openai-that-may-replace-software-engineers",
+      "title": "What Is Codex AI Coding Agent By OpenAI That May Replace Software Engineers",
+      "slug": "what-is-codex-ai-coding-agent-by-openai-that-may-replace-software-engineers",
+      "author": "Cyber News Team",
+      "date": "2025-05-18",
+      "uploadedAt": "20:09:03",
+      "thumbnail": [
+        {
+          "url": "https://raw.githubusercontent.com/Nadishan-Dev/Cyber-News/main/images/1_eyD2Ab-7GPRrlU844W99Kw.png",
+          "alt": "What Is Codex? AI Coding Agent By OpenAI That May Replace Software Engineers"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/Nadishan-Dev/Cyber-News/main/images/Codex_Blog_Header_V5.webp",
+          "alt": "What Is Codex? AI Coding Agent By OpenAI That May Replace Software Engineers"
+        }
+      ],
+      "video": [],
+      "summary": "OpenAI launched Codex a cloud-based AI coding agent that helps software engineers write code fix bugs and run tests aiming to enhance productivity or even replace some programming tasks.",
+      "content": "On May 16 2025 OpenAI introduced Codex an advanced AI powered software engineering agent designed to revolutionize the way developers work. Codex is part of a research preview available to ChatGPT Pro Team and Enterprise users and is powered by OpenAIs new o3 reasoning model.\n\nCodex functions like a virtual engineering assistant. It can read and edit code files, write new features, fix bugs, and even run linters, test suites, and type checkers in parallel. According to CEO Sam Altman, Codex enables developers to delegate tasks efficiently, running multiple jobs in the cloud simultaneously.\n\nDepending on the complexity, Codex can complete tasks in 1 to 30 minutes, significantly reducing time spent on routine coding. This could change the landscape of software development, especially for startups and agile teams.\n\nBy introducing a highly interactive and scalable AI coder, OpenAI moves closer to its vision of AI agents collaborating directly with humans, enhancing productivity and reducing human error in software development.",
+      "tags": [
+        "Open AI",
+        "CODEX",
+        "Chat GPT",
+        "AI"
+      ],
+      "views": 0,
+      "type": "post",
+      "links": [],
+      "category": "Technology"
     }
   ]
 }
