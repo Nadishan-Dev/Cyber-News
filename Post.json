@@ -718,6 +718,36 @@
       "type": "post",
       "links": [],
       "category": "Technology"
+    },
+    {
+      "id": "025",
+      "postid": "aaaa",
+      "title": "aaaa",
+      "slug": "aaaa",
+      "author": "Cyber News Team",
+      "date": "2025-05-18",
+      "uploadedAt": "20:35:23",
+      "thumbnail": [
+        {
+          "url": "https://raw.githubusercontent.com/Nadishan-Dev/Cyber-News/main/images/sam.jpg",
+          "alt": "aaaa"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/Nadishan-Dev/Cyber-News/main/images/samsung.jpg",
+          "alt": "aaaa"
+        }
+      ],
+      "video": [],
+      "summary": "sd",
+      "content": "adad",
+      "tags": [
+        "Galaxy AI",
+        "Samsung"
+      ],
+      "views": 0,
+      "type": "post",
+      "links": [],
+      "category": "Technology"
     }
   ]
 }
