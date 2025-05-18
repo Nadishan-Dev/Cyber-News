@@ -269,7 +269,8 @@
       "postid": "wikipedia-online-safety-act",
       "title": "Wikipedia Legally Challenges 'Flawed' Online Safety Rules",
       "slug": "wikipedia-online-safety-act",
-      "author": "Cyber News Team",      "date": "2025-05-09",
+      "author": "Cyber News Team",
+      "date": "2025-05-09",
       "links": [
         ""
       ],
@@ -664,6 +665,27 @@
       "type": "post",
       "links": [],
       "category": "DarkWeb"
+    },
+    {
+      "id": "023",
+      "postid": "still-booting-after-all-these-years-the-people-stuck-using-ancient-windows-computers",
+      "title": "Still booting after all these years: The people stuck using ancient Windows computers",
+      "slug": "still-booting-after-all-these-years-the-people-stuck-using-ancient-windows-computers",
+      "author": "Cyber News Team",
+      "date": "2025-05-18",
+      "uploadedAt": "19:43:14",
+      "thumbnail": [],
+      "video": [],
+      "summary": "Many individuals continue using outdated Windows systems due to hardware limitations, software compatibility, or personal preference, despite potential security risks and lack of support from Microsoft.",
+      "content": "Despite advancements in technology, a segment of users remains reliant on older Windows operating systems like Windows 7 or even Windows XP. Reasons for this persistence include hardware constraints, as older machines may not support newer OS requirements, and specific software dependencies that are incompatible with modern systems. Additionally, some users prefer the familiarity and simplicity of legacy interfaces.\n\nHowever, continuing to use outdated systems poses significant risks. Microsoft has ceased support for these older versions, meaning no security updates or technical assistance are provided. This lack of support leaves systems vulnerable to malware and other security threats. Furthermore, compatibility issues with newer applications and peripherals can hinder productivity and functionality.\n\nWhile the nostalgia and practicality of older systems are understandable, users are encouraged to consider upgrading to supported versions to ensure security and compatibility. For those unable to upgrade, implementing robust security measures and limiting internet exposure can help mitigate some risks.",
+      "tags": [
+        "Windows Computer",
+        "Microsoft"
+      ],
+      "views": 0,
+      "type": "post",
+      "links": [],
+      "category": "Technology"
     }
   ]
 }
