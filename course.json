@@ -17,8 +17,10 @@
           "Course": "Python",
           "date": "2025-05-18",
           "time": "06:04:46",
-          "status": "pending",
-          "fee": "0"
+          "status": "approved",
+          "fee": "0",
+          "exdate": "5/18/2025",
+          "extime": "8.15 AM"
         }
       ],
       "certificates": "HTML, CSS"
