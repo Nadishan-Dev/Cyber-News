@@ -23,7 +23,11 @@
           "extime": "8.15 AM"
         }
       ],
-      "certificates": "HTML, CSS"
+      "certificates": [
+        "name": "",
+        "datetime": "",
+        "sended" ""
+      ],
     },
     {
       "stid": "002",
