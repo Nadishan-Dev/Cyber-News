@@ -718,29 +718,6 @@
       "type": "post",
       "links": [],
       "category": "Technology"
-    },
-    {
-      "id": "025",
-      "postid": "ffd",
-      "title": "ffd",
-      "slug": "ffd",
-      "author": "Cyber News Team",
-      "date": "2025-05-18",
-      "uploadedAt": "20:30:18",
-      "thumbnail": [
-        {
-          "url": "https://raw.githubusercontent.com/Nadishan-Dev/Cyber-News/main/images/samsung.jpg",
-          "alt": "ffd"
-        }
-      ],
-      "video": [],
-      "summary": "ssd",
-      "content": "sdsd",
-      "tags": [],
-      "views": 0,
-      "type": "post",
-      "links": [],
-      "category": "Technology"
     }
   ]
 }
