@@ -674,7 +674,20 @@
       "author": "Cyber News Team",
       "date": "2025-05-18",
       "uploadedAt": "19:43:14",
-      "thumbnail": [],
+      "thumbnail": [
+        {
+          "url": "https://raw.githubusercontent.com/Nadishan-Dev/Cyber-News/main/images/m1.webp",
+          "alt": "Still booting after all these years: The people stuck using ancient Windows computers"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/Nadishan-Dev/Cyber-News/main/images/m2.webp",
+          "alt": "Still booting after all these years: The people stuck using ancient Windows computers"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/Nadishan-Dev/Cyber-News/main/images/m3.webp",
+          "alt": "Still booting after all these years: The people stuck using ancient Windows computers"
+        }
+      ],
       "video": [],
       "summary": "Many individuals continue using outdated Windows systems due to hardware limitations, software compatibility, or personal preference, despite potential security risks and lack of support from Microsoft.",
       "content": "Despite advancements in technology, a segment of users remains reliant on older Windows operating systems like Windows 7 or even Windows XP. Reasons for this persistence include hardware constraints, as older machines may not support newer OS requirements, and specific software dependencies that are incompatible with modern systems. Additionally, some users prefer the familiarity and simplicity of legacy interfaces.\n\nHowever, continuing to use outdated systems poses significant risks. Microsoft has ceased support for these older versions, meaning no security updates or technical assistance are provided. This lack of support leaves systems vulnerable to malware and other security threats. Furthermore, compatibility issues with newer applications and peripherals can hinder productivity and functionality.\n\nWhile the nostalgia and practicality of older systems are understandable, users are encouraged to consider upgrading to supported versions to ensure security and compatibility. For those unable to upgrade, implementing robust security measures and limiting internet exposure can help mitigate some risks.",
@@ -768,7 +781,13 @@
       "video": [],
       "summary": "Bitcoin nears its all-time high after crossing $105,000, with Dogecoin leading the top 10 coins in daily gains. Market-wide bullish momentum triggers $192M in liquidations, $128M from shorts.",
       "content": "Bitcoin continued its recent rebound toward its all-time high, surging past $105,000 on Sunday for the first time since January. The leading cryptocurrency is currently trading at $105,414, according to CoinGecko, marking a 2% gain on the day and a nearly 25% increase over the past 30 days. It's now just 3% shy of its all-time peak of $108,786, which was reached on January 20, the day of President Trump's inauguration.\n\nWhile there's no specific catalyst behind Bitcoin's latest push, it reflects renewed optimism among traders toward risk-on assets, especially as global trade tensions appear to be easing under the Trump administration.\n\nOther top cryptocurrencies also saw upward momentum on Sunday. XRP climbed nearly 4% to $2.43, Ethereum (ETH) rose 3.5% to $2,563, and Solana jumped more than 4% to approximately $175. The standout performer among the top 10, however, was Dogecoin, which surged nearly 8% to $0.232.\n\nThis broad market rally has hit short traders hard, with $128 million in short positions liquidated in the past 24 hours, out of a total $192 million in liquidations, according to CoinGlass.",
-      "tags": ["Bitcoin", "Dogecoin", "Ethereum", "Crypto News", "Market Update"],
+      "tags": [
+        "Bitcoin",
+        "Dogecoin",
+        "Ethereum",
+        "Crypto News",
+        "Market Update"
+      ],
       "views": 0,
       "type": "post",
       "links": [],
