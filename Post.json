@@ -752,27 +752,27 @@
       "category": "Technology"
     },
     {
-  "id": "026",
-  "postid": "bitcoin-soars-past-105k-dogecoin-leads-gains",
-  "title": "Bitcoin Soars Past $105K as Dogecoin Leads Top 10 Coins in Daily Gains",
-  "slug": "bitcoin-soars-past-105k-dogecoin-leads-gains",
-  "author": "Cyber News Team",
-  "date": "2025-05-18",
-  "uploadedAt": "05:28:26",
-  "thumbnail": [],
-  "video": [
+      "id": "026",
+      "postid": "bitcoin-soars-past-105k-dogecoin-leads-gains",
+      "title": "Bitcoin Soars Past $105K as Dogecoin Leads Top 10 Coins in Daily Gains",
+      "slug": "bitcoin-soars-past-105k-dogecoin-leads-gains",
+      "author": "Cyber News Team",
+      "date": "2025-05-18",
+      "uploadedAt": "05:28:26",
+      "thumbnail": [
         {
           "url": "https://raw.githubusercontent.com/Nadishan-Dev/Cyber-News/refs/heads/main/images/Bitcoin-decrypt-style-14-gID_7.png",
           "alt": "Samsung Galaxy S25 Edge"
         }
-],
-  "summary": "Bitcoin nears its all-time high after crossing $105,000, with Dogecoin leading the top 10 coins in daily gains. Market-wide bullish momentum triggers $192M in liquidations, $128M from shorts.",
-  "content": "Bitcoin continued its recent rebound toward its all-time high, surging past $105,000 on Sunday for the first time since January. The leading cryptocurrency is currently trading at $105,414, according to CoinGecko, marking a 2% gain on the day and a nearly 25% increase over the past 30 days. It's now just 3% shy of its all-time peak of $108,786, which was reached on January 20, the day of President Trump's inauguration.\n\nWhile there's no specific catalyst behind Bitcoin's latest push, it reflects renewed optimism among traders toward risk-on assets, especially as global trade tensions appear to be easing under the Trump administration.\n\nOther top cryptocurrencies also saw upward momentum on Sunday. XRP climbed nearly 4% to $2.43, Ethereum (ETH) rose 3.5% to $2,563, and Solana jumped more than 4% to approximately $175. The standout performer among the top 10, however, was Dogecoin, which surged nearly 8% to $0.232.\n\nThis broad market rally has hit short traders hard, with $128 million in short positions liquidated in the past 24 hours, out of a total $192 million in liquidations, according to CoinGlass.",
-  "tags": ["Bitcoin", "Dogecoin", "Ethereum", "Crypto News", "Market Update"],
-  "views": 0,
-  "type": "post",
-  "links": [],
-  "category": "Market Update"
-}
+      ],
+      "video": [],
+      "summary": "Bitcoin nears its all-time high after crossing $105,000, with Dogecoin leading the top 10 coins in daily gains. Market-wide bullish momentum triggers $192M in liquidations, $128M from shorts.",
+      "content": "Bitcoin continued its recent rebound toward its all-time high, surging past $105,000 on Sunday for the first time since January. The leading cryptocurrency is currently trading at $105,414, according to CoinGecko, marking a 2% gain on the day and a nearly 25% increase over the past 30 days. It's now just 3% shy of its all-time peak of $108,786, which was reached on January 20, the day of President Trump's inauguration.\n\nWhile there's no specific catalyst behind Bitcoin's latest push, it reflects renewed optimism among traders toward risk-on assets, especially as global trade tensions appear to be easing under the Trump administration.\n\nOther top cryptocurrencies also saw upward momentum on Sunday. XRP climbed nearly 4% to $2.43, Ethereum (ETH) rose 3.5% to $2,563, and Solana jumped more than 4% to approximately $175. The standout performer among the top 10, however, was Dogecoin, which surged nearly 8% to $0.232.\n\nThis broad market rally has hit short traders hard, with $128 million in short positions liquidated in the past 24 hours, out of a total $192 million in liquidations, according to CoinGlass.",
+      "tags": ["Bitcoin", "Dogecoin", "Ethereum", "Crypto News", "Market Update"],
+      "views": 0,
+      "type": "post",
+      "links": [],
+      "category": "Market Update"
+    }
   ]
 }
