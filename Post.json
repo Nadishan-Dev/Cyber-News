@@ -950,7 +950,16 @@
       "author": "Cyber News Team",
       "date": "2025-05-23",
       "uploadedAt": "19:58:49",
-      "thumbnail": [],
+      "thumbnail": [
+        {
+          "url": "https://raw.githubusercontent.com/Nadishan-Dev/Cyber-News/main/images/google-jules1.jpg",
+          "alt": "Google Introduces \"Jules\": A Next-Gen AI Assistant for Developers"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/Nadishan-Dev/Cyber-News/main/images/google-jules1.png",
+          "alt": "Google Introduces \"Jules\": A Next-Gen AI Assistant for Developers"
+        }
+      ],
       "video": [],
       "summary": "Google has unveiled \"Jules,\" a powerful new AI assistant designed specifically to help developers write, debug, and optimize code faster using advanced Gemini model integration.",
       "content": "<h2><b>Google Introduces \"Jules\": A Next-Gen AI Assistant for Developers</b></h2>\n<br>\n<p>\n  <b>Google has officially launched \"Jules\"</b>, a smart and responsive AI coding assistant aimed at boosting developer productivity. Powered by Google's advanced Gemini AI model, Jules is integrated directly into developer tools like Android Studio, Google Cloud Console, and popular code editors.<br><br>\n\n  The AI assistant is designed to <b>understand natural language prompts</b>, generate code suggestions in real time, help with debugging, and even explain code snippets—all within the context of the developer’s current project.<br><br>\n\n  <b>Key features of Jules include:</b><br>\n  – Real-time code completion and suggestions<br>\n  – Context-aware debugging and error explanations<br>\n  – Seamless integration with Google APIs and cloud services<br>\n  – Support for multiple programming languages<br><br>\n\n  According to Google, Jules aims to become a <b>\"true coding partner\"</b> for developers by streamlining workflows and reducing development time. It’s part of Google’s broader strategy to empower developers through AI-driven tools and automation.<br><br>\n\n  <b>Currently available in preview</b> for select users, Jules is expected to roll out globally later this year with enhanced capabilities and support for enterprise environments.\n</p>\n\n\n<br>\n<u><h3><a  style=\"cursor: pointer\" href=\"https://jules.google/\">Try it Now</a></h3></u>",
