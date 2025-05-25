@@ -1,0 +1,20 @@
+{
+  "app": {
+    "name": "Cyber News",
+    "version": "1.0.0",
+    "platforms": {
+      "android": {
+        "url": "https://store1.gofile.io/download/abc123/CyberNews.apk",
+        "size": "28 MB",
+        "type": "APK",
+        "lastUpdated": "2025-05-25"
+      },
+      "windows": {
+        "url": "https://store1.gofile.io/download/def456/CyberNewsSetup.exe",
+        "size": "169 MB",
+        "type": "EXE",
+        "lastUpdated": "2025-05-25"
+      }
+    }
+  }
+}
