@@ -8,7 +8,12 @@
       "author": "Cyber News Team",
       "date": "2025-06-14",
       "uploadedAt": "18:00:59",
-      "thumbnail": [],
+      "thumbnail": [
+        {
+          "url": "https://raw.githubusercontent.com/Nadishan-Dev/Cyber-News/main/images/Gemini-Code-Assist.jpg",
+          "alt": "Gemini Code Assist gets a major AI upgrade with Gemini 2.5"
+        }
+      ],
       "video": [],
       "summary": "Gemini Code Assist 2.5 is Google’s advanced AI coding tool designed to help developers write, debug, and optimize code more efficiently. It integrates with popular IDEs and offers features like smart code completion, test generation, and real-time suggestions. It supports enterprise-grade security and customization.",
       "content": "<p>\n<b>Google's</b> Gemini Code Assist 2.5 introduces a new AI‑powered coding assistant<br>\ndesigned to help developers boost productivity and code quality.<br>\nThis tool integrates with popular IDEs like VS Code and JetBrains,<br>\nbringing features such as smart code completion,<br>\nreal‑time debugging hints,<br>\nand automated function generation.<br>\n<br>\n<b>Built</b> on Gemini 1.5 Pro and now upgraded to Gemini 2.5,<br>\nit offers faster and more contextual understanding<br>\nof code bases with long‑term memory capabilities.<br>\nEnterprise users benefit from private code protection,<br>\nsupport for custom models,<br>\nand policy‑driven code recommendations.<br>\n<br>\n<b>The</b> tool can generate entire code blocks,<br>\nsuggest unit tests,<br>\noptimize existing code,<br>\nand explain errors in natural language.<br>\nIt’s free for individual developers,<br>\nmaking advanced AI tools widely accessible.<br>\nEnterprise plans include enhanced collaboration,<br>\nadmin controls,<br>\nand integrations with security auditing tools.<br>\n<br>\n<b>With</b> deep integration into Google Workspace and cloud tools,<br>\nGemini Code Assist 2.5 is positioned to rival GitHub Copilot<br>\nin functionality and trust.<br>\nIts launch marks a significant milestone<br>\nin the evolution of developer‑focused AI solutions.<br>\n</p>",
